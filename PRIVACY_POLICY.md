@@ -112,8 +112,8 @@ Continued use of the App after changes constitutes acceptance of the updated pri
 
 If you have questions about this privacy policy or the App's privacy practices, please contact:
 
-**Email**: [Your contact email]
-**Developer**: Jaroslav Tomecek
+**Email**: games@tomeczech.cz
+**Developer**: Jarda Tomeczech
 **Location**: Czech Republic
 
 ## Your Rights
@@ -207,8 +207,8 @@ Tato aplikace je nástroj pro cvičení vizuálního sledování, NIKOLI ortopti
 
 Pokud máte dotazy ohledně těchto zásad ochrany soukromí nebo postupů ochrany soukromí aplikace, kontaktujte nás:
 
-**E-mail**: [Váš kontaktní e-mail]
-**Vývojář**: Jaroslav Tomecek
+**E-mail**: games@tomeczech.cz
+**Vývojář**: Jarda Tomeczech
 **Umístění**: Česká republika
 
 ---
@@ -277,6 +277,6 @@ Táto aplikácia je nástroj na cvičenie vizuálneho sledovania, NIE ortoptick�
 
 Ak máte otázky ohľadom týchto zásad ochrany súkromia alebo postupov ochrany súkromia aplikácie, kontaktujte nás:
 
-**E-mail**: [Váš kontaktný e-mail]
-**Vývojár**: Jaroslav Tomecek
+**E-mail**: games@tomeczech.cz
+**Vývojár**: Jarda Tomeczech
 **Umiestnenie**: Česká republika
