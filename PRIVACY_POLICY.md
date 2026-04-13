@@ -1,10 +1,14 @@
-# Privacy Policy for Visual Tracking Games for Kids
+# Privacy Policy for Visual Tracking Exercises
 
-**Last Updated**: October 31, 2025
+**Last Updated**: April 13, 2026
+
+**App Name**: Visual Tracking Exercises (Czech: Vizuální Hry pro Děti, Slovak: Vizuálne Hry pre Deti)
+**Developer**: Jarda Tomeczech
+**Package**: com.eyetrainings.app
 
 ## Overview
 
-Visual Tracking Games for Kids ("the App") is designed with privacy as a core principle. This privacy policy explains our commitment to protecting your child's privacy.
+Visual Tracking Exercises ("the App") is designed with privacy as a core principle. This privacy policy explains our commitment to protecting your child's privacy.
 
 ## Information We Collect
 
@@ -145,11 +149,15 @@ This privacy policy is available in:
 
 ## Zásady ochrany soukromí (Czech)
 
-**Poslední aktualizace**: 31. října 2025
+**Poslední aktualizace**: 13. dubna 2026
+
+**Název aplikace**: Vizuální Hry pro Děti (Visual Tracking Exercises)
+**Vývojář**: Jarda Tomeczech
+**Balíček**: com.eyetrainings.app
 
 ### Přehled
 
-Hry na vizuální sledování pro děti ("Aplikace") je navržena s ochranou soukromí jako základním principem. Tyto zásady ochrany soukromí vysvětlují náš závazek chránit soukromí vašeho dítěte.
+Vizuální Hry pro Děti ("Aplikace") je navržena s ochranou soukromí jako základním principem. Tyto zásady ochrany soukromí vysvětlují náš závazek chránit soukromí vašeho dítěte.
 
 ### Shromažďované informace
 
@@ -215,11 +223,15 @@ Pokud máte dotazy ohledně těchto zásad ochrany soukromí nebo postupů ochra
 
 ## Zásady ochrany súkromia (Slovak)
 
-**Posledná aktualizácia**: 31. októbra 2025
+**Posledná aktualizácia**: 13. apríla 2026
+
+**Názov aplikácie**: Vizuálne Hry pre Deti (Visual Tracking Exercises)
+**Vývojár**: Jarda Tomeczech
+**Balík**: com.eyetrainings.app
 
 ### Prehľad
 
-Hry na vizuálne sledovanie pre deti ("Aplikácia") je navrhnutá s ochranou súkromia ako základným princípom. Tieto zásady ochrany súkromia vysvetľujú náš záväzok chrániť súkromie vášho dieťaťa.
+Vizuálne Hry pre Deti ("Aplikácia") je navrhnutá s ochranou súkromia ako základným princípom. Tieto zásady ochrany súkromia vysvetľujú náš záväzok chrániť súkromie vášho dieťaťa.
 
 ### Zhromažďované informácie
 
