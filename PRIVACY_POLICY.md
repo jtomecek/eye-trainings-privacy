@@ -20,7 +20,7 @@ The App:
 - Does NOT use analytics services
 - Does NOT contain advertisements
 - Does NOT require user accounts or registration
-- Does NOT connect to the internet
+- Does NOT connect to the internet for any purpose other than processing optional in-app purchases through Google Play Billing (see "In-App Purchases" below)
 
 ## Data Storage
 
@@ -49,9 +49,9 @@ The App is designed for children aged 5 and above, including children with visio
 We comply with children's privacy protection regulations:
 - NO personal information is collected
 - NO online features or communications
-- NO third-party services or tracking
-- NO in-app purchases
-- Completely offline operation
+- NO third-party tracking, analytics, or advertising services
+- The App offers optional in-app purchases (one-time premium upgrade) processed entirely by Google Play Billing; we do not receive or store any payment information
+- All exercise functionality operates fully offline
 
 ## Device Permissions
 
@@ -64,27 +64,40 @@ The App does NOT access:
 - Microphone
 - Location
 - Contacts
-- Internet/network connection
+
+The App requests internet/network access solely for Google Play Billing when the user initiates or restores an in-app purchase. No other network requests are made.
+
+## In-App Purchases
+
+The App offers an optional one-time premium upgrade. Purchases are processed exclusively by Google Play Billing (operated by Google LLC). When you make or restore a purchase:
+
+- Google handles the payment, receipt, and entitlement verification
+- We (the developer) receive only the anonymous purchase token and product identifier needed to unlock premium features on your device
+- We do NOT receive or store your name, email, address, payment card, or any other identifying information
+- The App stores the unlock state locally on your device
+
+Google's handling of payment data is governed by the [Google Play Terms of Service](https://play.google.com/intl/en/about/play-terms/) and [Google Privacy Policy](https://policies.google.com/privacy).
 
 ## Third-Party Services
 
-The App does NOT integrate with any third-party services, including:
+The App does NOT integrate with any third-party services for tracking, advertising, analytics, or social features. The only third-party service used is **Google Play Billing**, and only for processing optional in-app purchases as described above.
+
+The App does NOT use:
 - Analytics providers
 - Advertising networks
 - Social media platforms
-- Cloud services
-- Payment processors
+- Cloud storage or sync services
 
 ## Data Sharing
 
-We do NOT share any data because we do NOT collect any data.
+We do NOT collect or share any personal data. Information related to in-app purchases is handled by Google Play Billing under Google's privacy policy; we receive only the minimum technical data needed to grant the entitlement.
 
 ## Security
 
-While no personal data is collected or transmitted:
-- All app functionality operates locally on device
-- No network communication occurs
-- No external servers are contacted
+While no personal data is collected or transmitted by the App:
+- All exercise functionality operates locally on device
+- The only network communication is with Google Play Billing servers when the user initiates or restores an in-app purchase
+- No other external servers are contacted
 - Session data is isolated to the app's secure storage
 
 ## Medical Disclaimer
@@ -101,7 +114,7 @@ This App is a visual tracking exercise tool, NOT orthoptic therapy or medical tr
 Parents have full control:
 - 20-minute session timeout encourages appropriate screen time
 - Adult override available via slide gesture
-- No hidden features or purchases
+- The optional premium upgrade is a one-time purchase processed by Google Play Billing, which enforces device-level purchase authentication (no surprise purchases)
 - Completely transparent operation
 
 ## Changes to This Privacy Policy
@@ -126,8 +139,8 @@ Under GDPR and similar privacy regulations, you have rights regarding personal d
 
 The App is designed to ensure your child's privacy is protected by default through:
 - No data collection
-- No tracking
-- Offline-only operation
+- No tracking, analytics, or advertising
+- Offline operation for all exercise functionality (network used only for optional Google Play Billing in-app purchases)
 - Temporary session storage only
 
 ## Compliance
@@ -169,7 +182,7 @@ Aplikace:
 - Nepoužívá analytické služby
 - Neobsahuje reklamy
 - Nevyžaduje uživatelské účty ani registraci
-- Nepřipojuje se k internetu
+- Nepřipojuje se k internetu k žádnému jinému účelu než ke zpracování volitelných nákupů v aplikaci přes Google Play Billing (viz část „Nákupy v aplikaci" níže)
 
 ### Ukládání dat
 
@@ -198,9 +211,20 @@ Aplikace je určena pro děti od 5 let, včetně dětí se zrakovým postižení
 Dodržujeme předpisy na ochranu soukromí dětí:
 - ŽÁDNÉ shromažďování osobních údajů
 - ŽÁDNÉ online funkce nebo komunikace
-- ŽÁDNÉ služby třetích stran nebo sledování
-- ŽÁDNÉ nákupy v aplikaci
-- Zcela offline provoz
+- ŽÁDNÉ sledování, analytika ani reklamní služby třetích stran
+- Aplikace nabízí volitelné nákupy v aplikaci (jednorázové prémiové vylepšení), které jsou plně zpracovávány službou Google Play Billing; neobdržíme ani neukládáme žádné platební informace
+- Veškerá cvičební funkčnost běží zcela offline
+
+### Nákupy v aplikaci
+
+Aplikace nabízí volitelné jednorázové prémiové vylepšení. Nákupy jsou výhradně zpracovávány službou Google Play Billing (provozováno společností Google LLC). Při nákupu nebo obnovení nákupu:
+
+- Google zpracovává platbu, účtenku i ověření oprávnění
+- My (vývojář) obdržíme pouze anonymní token nákupu a identifikátor produktu potřebné k odemknutí prémiových funkcí na vašem zařízení
+- NEOBDRŽÍME ani neukládáme vaše jméno, e-mail, adresu, platební kartu ani jiné identifikační údaje
+- Aplikace ukládá stav odemčení lokálně na vašem zařízení
+
+Zacházení Googlu s platebními údaji se řídí [Smluvními podmínkami Google Play](https://play.google.com/intl/cs/about/play-terms/) a [Zásadami ochrany soukromí Google](https://policies.google.com/privacy?hl=cs).
 
 ### Lékařské prohlášení o vyloučení odpovědnosti
 
@@ -243,7 +267,7 @@ Aplikácia:
 - Nepoužíva analytické služby
 - Neobsahuje reklamy
 - Nevyžaduje používateľské účty ani registráciu
-- Nepripája sa na internet
+- Nepripája sa na internet na žiadny iný účel než spracovanie voliteľných nákupov v aplikácii cez Google Play Billing (pozri časť „Nákupy v aplikácii" nižšie)
 
 ### Ukladanie dát
 
@@ -272,9 +296,20 @@ Aplikácia je určená pre deti od 5 rokov, vrátane detí so zrakovým postihnu
 Dodržiavame predpisy na ochranu súkromia detí:
 - ŽIADNE zhromažďovanie osobných údajov
 - ŽIADNE online funkcie alebo komunikácia
-- ŽIADNE služby tretích strán alebo sledovanie
-- ŽIADNE nákupy v aplikácii
-- Úplne offline prevádzka
+- ŽIADNE sledovanie, analytika ani reklamné služby tretích strán
+- Aplikácia ponúka voliteľné nákupy v aplikácii (jednorazové prémiové vylepšenie), ktoré sú plne spracovávané službou Google Play Billing; nedostávame ani neukladáme žiadne platobné informácie
+- Všetka cvičebná funkčnosť beží úplne offline
+
+### Nákupy v aplikácii
+
+Aplikácia ponúka voliteľné jednorazové prémiové vylepšenie. Nákupy sú výhradne spracovávané službou Google Play Billing (prevádzkovanou spoločnosťou Google LLC). Pri nákupe alebo obnovení nákupu:
+
+- Google spracováva platbu, potvrdenie aj overenie oprávnenia
+- My (vývojár) dostaneme iba anonymný token nákupu a identifikátor produktu potrebné na odomknutie prémiových funkcií na vašom zariadení
+- NEDOSTÁVAME ani neukladáme vaše meno, e-mail, adresu, platobnú kartu ani iné identifikačné údaje
+- Aplikácia ukladá stav odomknutia lokálne na vašom zariadení
+
+Zaobchádzanie Googlu s platobnými údajmi sa riadi [Zmluvnými podmienkami Google Play](https://play.google.com/intl/sk/about/play-terms/) a [Zásadami ochrany súkromia Google](https://policies.google.com/privacy?hl=sk).
 
 ### Lekárske vyhlásenie o vylúčení zodpovednosti
 
